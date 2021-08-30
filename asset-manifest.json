@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/HW2-IMDB-Search-App-React/static/css/main.821124bd.chunk.css",
+    "main.js": "/HW2-IMDB-Search-App-React/static/js/main.a3acf331.chunk.js",
+    "main.js.map": "/HW2-IMDB-Search-App-React/static/js/main.a3acf331.chunk.js.map",
+    "runtime-main.js": "/HW2-IMDB-Search-App-React/static/js/runtime-main.8809bef0.js",
+    "runtime-main.js.map": "/HW2-IMDB-Search-App-React/static/js/runtime-main.8809bef0.js.map",
+    "static/js/2.c0cba4c2.chunk.js": "/HW2-IMDB-Search-App-React/static/js/2.c0cba4c2.chunk.js",
+    "static/js/2.c0cba4c2.chunk.js.map": "/HW2-IMDB-Search-App-React/static/js/2.c0cba4c2.chunk.js.map",
+    "index.html": "/HW2-IMDB-Search-App-React/index.html",
+    "static/css/main.821124bd.chunk.css.map": "/HW2-IMDB-Search-App-React/static/css/main.821124bd.chunk.css.map",
+    "static/js/2.c0cba4c2.chunk.js.LICENSE.txt": "/HW2-IMDB-Search-App-React/static/js/2.c0cba4c2.chunk.js.LICENSE.txt",
+    "static/media/logo.8691b416.png": "/HW2-IMDB-Search-App-React/static/media/logo.8691b416.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8809bef0.js",
+    "static/js/2.c0cba4c2.chunk.js",
+    "static/css/main.821124bd.chunk.css",
+    "static/js/main.a3acf331.chunk.js"
+  ]
+}
