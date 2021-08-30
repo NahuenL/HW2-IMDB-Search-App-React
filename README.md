@@ -1,3 +1,16 @@
+# HW2-IMDB-Search-App-React
+
+Hi, this is a basic movie search app, here you can find that movie that you been looking for...
+
+## API Used
+
+In this App, I used a Internet Movie Database (IMDB) API, witch provide you many items in JSON format, such as movie specifications, images, posters, trailers, ratings, etc...
+You can find more info here [IMDB - API](https://imdb-api.com/) 
+
+## Design Pattern
+
+In this App, I use an Provider Pattern with React Context API, witch allow us to share data across all the components App.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +81,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
