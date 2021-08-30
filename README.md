@@ -4,7 +4,7 @@ Hi, this is a basic movie search app. Here you can find that movie you have been
 
 ## API Used
 
-This App uses a Internet Movie Database (IMDB) API. It provides many items in JSON format, such as movie specifications, images, posters, trailers, ratings, etc...
+This App uses an Internet Movie Database (IMDB) API. It provides many items in JSON format, such as movie specifications, images, posters, trailers, ratings, etc...
 You can find more info here [IMDB - API](https://imdb-api.com/) 
 
 ## Design Pattern
