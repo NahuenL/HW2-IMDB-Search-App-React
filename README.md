@@ -9,7 +9,7 @@ You can find more info here [IMDB - API](https://imdb-api.com/)
 
 ## Design Pattern
 
-This App uses a Provider Pattern with React Context API, It allows us to share data across the App components.
+This App uses a Provider Pattern with React Context API. It allows us to share data across the App components.
 
 # Getting Started with Create React App
 
