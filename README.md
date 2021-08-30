@@ -4,12 +4,12 @@ Hi, this is a basic movie search app. Here you can find that movie you have been
 
 ## API Used
 
-In this App I used a Internet Movie Database (IMDB) API. It provides many items in JSON format, such as movie specifications, images, posters, trailers, ratings, etc...
+This App uses a Internet Movie Database (IMDB) API. It provides many items in JSON format, such as movie specifications, images, posters, trailers, ratings, etc...
 You can find more info here [IMDB - API](https://imdb-api.com/) 
 
 ## Design Pattern
 
-In this App I use an Provider Pattern with React Context API, It allows us to share data across the App components.
+This App uses a Provider Pattern with React Context API, It allows us to share data across the App components.
 
 # Getting Started with Create React App
 
