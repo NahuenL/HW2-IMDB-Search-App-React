@@ -1,15 +1,15 @@
 # HW2-IMDB-Search-App-React
 
-Hi, this is a basic movie search app, here you can find that movie that you been looking for...
+Hi, this is a basic movie search app. Here you can find that movie you have been looking for...
 
 ## API Used
 
-In this App, I used a Internet Movie Database (IMDB) API, witch provide you many items in JSON format, such as movie specifications, images, posters, trailers, ratings, etc...
+In this App I used a Internet Movie Database (IMDB) API, it provides many items in JSON format, such as movie specifications, images, posters, trailers, ratings, etc...
 You can find more info here [IMDB - API](https://imdb-api.com/) 
 
 ## Design Pattern
 
-In this App, I use an Provider Pattern with React Context API, witch allow us to share data across all the components App.
+In this App I use an Provider Pattern with React Context API, It allows us to share data across the App components.
 
 # Getting Started with Create React App
 
